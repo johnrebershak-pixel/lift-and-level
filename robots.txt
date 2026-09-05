@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://concreteliftlevel.com.au/sitemap.xml
